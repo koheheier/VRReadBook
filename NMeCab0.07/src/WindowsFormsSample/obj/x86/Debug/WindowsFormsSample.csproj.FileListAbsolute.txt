@@ -1,0 +1,13 @@
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\WindowsFormsSample.exe.config
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\WindowsFormsSample.exe
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\WindowsFormsSample.pdb
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\LibNMeCab.dll
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\LibNMeCab.pdb
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\bin\Debug\LibNMeCab.dll.config
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.csprojAssemblyReference.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.Form1.resources
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.csproj.GenerateResource.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.csproj.CoreCompileInputs.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.csproj.CopyComplete
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.exe
+C:\Users\81909\Desktop\NMeCab0.07\src\WindowsFormsSample\obj\x86\Debug\WindowsFormsSample.pdb

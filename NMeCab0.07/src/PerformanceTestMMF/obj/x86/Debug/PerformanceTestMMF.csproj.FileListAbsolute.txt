@@ -1,0 +1,2 @@
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTestMMF\obj\x86\Debug\PerformanceTestMMF.csprojAssemblyReference.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTestMMF\obj\x86\Debug\PerformanceTestMMF.csproj.CoreCompileInputs.cache

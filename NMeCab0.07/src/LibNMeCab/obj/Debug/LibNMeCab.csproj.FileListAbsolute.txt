@@ -1,0 +1,7 @@
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\bin\Debug\LibNMeCab.dll.config
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\bin\Debug\LibNMeCab.dll
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\bin\Debug\LibNMeCab.pdb
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\obj\Debug\LibNMeCab.csprojAssemblyReference.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\obj\Debug\LibNMeCab.csproj.CoreCompileInputs.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\obj\Debug\LibNMeCab.dll
+C:\Users\81909\Desktop\NMeCab0.07\src\LibNMeCab\obj\Debug\LibNMeCab.pdb

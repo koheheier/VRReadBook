@@ -1,0 +1,12 @@
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\kokoro.txt
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\PerformanceTest.exe
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\PerformanceTest.pdb
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\LibNMeCab.dll
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\LibNMeCab.pdb
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\bin\Debug\LibNMeCab.dll.config
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\obj\x86\Debug\PerformanceTest.csprojAssemblyReference.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\obj\x86\Debug\PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\obj\x86\Debug\PerformanceTest.csproj.CopyComplete
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\obj\x86\Debug\PerformanceTest.exe
+C:\Users\81909\Desktop\NMeCab0.07\src\PerformanceTest\obj\x86\Debug\PerformanceTest.pdb
